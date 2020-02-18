@@ -13,29 +13,21 @@
 
 ### Vision System 
 
-###### Maximum Field Of View "FOV" :
+###### Maximum Field Of View "FOV" : 70*35 cm
 
-###### Maximum Region Of intrest "ROI":
+###### Maximum Region Of intrest "ROI": 70*25 cm
 
-###### Minimum Region Of intrest "ROI":
+###### Depth Of Field "DOF": 5cm
 
-###### Depth Of Field "DOF":
+###### Working Distance "WD": 52 cm
 
-###### Working Distance "WD":
-
-###### 2D Matrix Polarization :
+###### 2D Matrix Polarization : Balck on White 
 
 ###### MM/Pixel Ratio @ 20 MP :
 
-###### MM/Pixel Ratio @ 10 MP :
-
 ###### Camera Test 8mm Lens & 20mp sensor :
 
-###### Camera Test 8mm Lens & 10mp sensor :
-
-###### Exposure Time  @ 10MP/8mm :
-
-###### Exposure Time  @ 20MP/8mm :
+###### Exposure Time  @ 20MP/8mm : 220K
 
 ### Mechanical System 
 
