@@ -31,13 +31,13 @@
 ###### Exposure Time  @ 20MP/8mm : 220K
 
 #### Test Results :
-![Final_output](IMG\L4\FI_1layer_52cm_220K_8mm_20MP.png)
+![Final_output](\IMG\L4\FI_1layer_52cm_220K_8mm_20MP.png)
 
-![Pattern_match_result](IMG\L4\pattern_Results.PNG)
+![Pattern_match_result](\IMG\L4\pattern_Results.PNG)
 
-![Pattern_sample](IMG\L4\Paterrn.matching.test.sample.png)
+![Pattern_sample](\IMG\L4\Paterrn.matching.test.sample.png)
 
-![Single_Layer](IMG\L4\Single_layer.png)
+![Single_Layer](\IMG\L4\Single_layer.png)
 
 
 ### Mechanical System 
